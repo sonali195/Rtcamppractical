@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ruleset name="YourCustomRuleset">
+    <description>Your custom ruleset for WordPress plugin</description>
+    <file>./</file>
+    <rule ref="WordPress-Core"/>
+    <!-- Include additional rules or exclude unwanted rules as needed -->
+</ruleset>
